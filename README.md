@@ -23,12 +23,12 @@
 
 ### [*]Announcent
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/trhacknon/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
 
-- `git clone https://github.com/KasRoudra/VidPhisher`
+- `git clone https://github.com/trhacknon/VidPhisher`
 - `cd VidPhisher`
 
 For termux, use additional command `termux-setup-storage`
@@ -38,13 +38,13 @@ For termux, use additional command `termux-setup-storage`
 ##### Or Run Directly
 
 ```
-wget https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/vp.sh && bash vp.sh
+wget https://raw.githubusercontent.com/trhacknon/VidPhisher/main/vp.sh && bash vp.sh
 ```
 
 ### Docker
 
- - `sudo docker pull kasroudra/vidphisher`
- - `sudo docker run --rm -it --name vidphisher kasroudra/vidphisher`
+ - `sudo docker pull trhacknon/vidphisher`
+ - `sudo docker run --rm -it --name vidphisher trhacknon/vidphisher`
  - `sudo docker cp vidphisher:/VidPhisher vidfiles` [Run this on another terminal to copy received video/audio from docker to vidfiles folder keeping container open] 
 
 
@@ -75,7 +75,7 @@ Options:
 
 ### [+] Preview
 
-![Hack anyone's camera and get videos](https://github.com/KasRoudra/VidPhisher/raw/main/files/vp.gif)
+![Hack anyone's camera and get videos](https://github.com/trhacknon/VidPhisher/raw/main/files/vp.gif)
 
 ### [+] Depenencies
 
@@ -100,9 +100,9 @@ Thanks to <a href="https://github.com/Techchipnet/camphish">Techchip</a> and <a 
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-trhacknon-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/anonymous-trhacknon-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
 
 - [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
 
